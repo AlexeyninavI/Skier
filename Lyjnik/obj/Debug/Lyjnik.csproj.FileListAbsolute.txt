@@ -1,0 +1,9 @@
+c:\users\bslhr\documents\visual studio 2015\Projects\Lyjnik\Lyjnik\bin\Debug\Lyjnik.exe.config
+c:\users\bslhr\documents\visual studio 2015\Projects\Lyjnik\Lyjnik\bin\Debug\Lyjnik.exe
+c:\users\bslhr\documents\visual studio 2015\Projects\Lyjnik\Lyjnik\bin\Debug\Lyjnik.pdb
+c:\users\bslhr\documents\visual studio 2015\Projects\Lyjnik\Lyjnik\obj\Debug\Lyjnik.csprojResolveAssemblyReference.cache
+c:\users\bslhr\documents\visual studio 2015\Projects\Lyjnik\Lyjnik\obj\Debug\Lyjnik.Form1.resources
+c:\users\bslhr\documents\visual studio 2015\Projects\Lyjnik\Lyjnik\obj\Debug\Lyjnik.Properties.Resources.resources
+c:\users\bslhr\documents\visual studio 2015\Projects\Lyjnik\Lyjnik\obj\Debug\Lyjnik.csproj.GenerateResource.Cache
+c:\users\bslhr\documents\visual studio 2015\Projects\Lyjnik\Lyjnik\obj\Debug\Lyjnik.exe
+c:\users\bslhr\documents\visual studio 2015\Projects\Lyjnik\Lyjnik\obj\Debug\Lyjnik.pdb
